@@ -1,0 +1,55 @@
+{
+    "long term liabilites": {
+        "own funds": {
+            "capital account": null,
+            "reservce surplus": {
+                "general reserve": null,
+                "profit and loss account": null,
+                "share premium": null
+            }
+        },
+        "outside funds": {
+            "secure loan": {
+                "business loan": null,
+                "working capital": null
+            },
+            "long term loan - unsecured": {
+                "bank loan": null,
+                "nbfc loan": null
+            },
+            "other long term liabilities": {
+                "other tax liabilities": null,
+                "deffered tax liabilities": null
+            }
+        }
+    },
+    "short term liabilites": {
+        "sundry creditors": null,
+        "short term borrowing": {
+            "bill discount": null,
+            "bank over draft": null
+        },
+        "other current liabilities and provisions": null
+    },
+    "long term assets": {
+        "net fixed assets": {
+            "land": null
+        },
+        "other non current assets": {
+            "investment in companies": null
+        }
+    },
+    "short term assets": {
+        "closing stock": null,
+        "sundry debtors or receivables": null,
+        "cash in bank": null,
+        "short term investments": {
+            "fixed feposit or rd": null
+        },
+        "other current Assets and loans and advances": {
+            "pre-paid expenses": null
+        }
+    }
+
+
+}
