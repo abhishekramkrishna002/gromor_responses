@@ -1,0 +1,7 @@
+{
+  "section_name":"General Section",
+  "section_add_url":"http://domain.com/section/add",
+  "section_edit_url":"http://domain.com/section/edit",
+  "section_delete_url":"http://domain.com/section/delete",
+  "section_list_url":"http://domain.com/section/list"
+}
